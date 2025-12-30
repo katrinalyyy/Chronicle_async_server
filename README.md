@@ -9,3 +9,5 @@
 Основной веб-сервис: https://github.com/katrinalyyy/ChronicleSearch
 
 Асинхронный веб-сервис: https://github.com/katrinalyyy/Chronicle_async_server
+
+ GitHub Pages: https://katrinalyyy.github.io/ChronicleSearch_frontend/
